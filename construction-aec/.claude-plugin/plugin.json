@@ -1,0 +1,9 @@
+{
+  "name": "construction-aec",
+  "version": "0.1.0",
+  "description": "Skills for construction engineering and architecture (AEC) work — method statements, RFIs and spec compliance checks, and material/shop-drawing submittals. Tuned for building, fit-out, and general-contracting projects.",
+  "author": {
+    "name": "Wael"
+  },
+  "keywords": ["construction", "architecture", "civil-engineering", "AEC", "method-statement", "submittal", "RFI", "specification"]
+}
